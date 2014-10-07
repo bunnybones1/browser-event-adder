@@ -1,6 +1,6 @@
 {
   "name": "browser-event-adder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility to add browser events in all supported styles",
   "main": "index.js",
   "license": "MIT",
